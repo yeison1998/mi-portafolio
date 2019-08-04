@@ -1,0 +1,68 @@
+.text-ac-geek{
+    color: #00BCD4 !important;
+}
+
+.btn-geek{
+    background-color: #00BCD4;
+    color: white;
+}
+
+.btn-geek:hover{
+    background-color: #0288D1;
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+.imgCon{
+    width: 500px ;
+    height: 200px ;
+    margin: 10px 10px; 
+}
+.imgCarousel{
+    width: 800px;
+    margin-left: 5px;
+}
+.imgs{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+p{
+    font-size: 18px;
+}
+#header a{
+    font-size: 13px;
+}
+#myCarousel{
+    margin: 0;
+    padding: 0;
+}
+
+#skills {
+    background-color: #343A40;
+    color: white;
+}
+
+#experiencia{
+    background-color: #343A40;
+    color: white;
+}
+#contacto{
+    background-color: #343A40;
+    color: white;
+}
+
+#place-time img {
+    max-width: 100%;
+}
+
+#footer {
+    background: linear-gradient(110deg, black, grey, cornsilk);
+}
+
+#footer a{
+    color: black;
+    font-size: 12px;
+}
