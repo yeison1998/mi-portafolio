@@ -1,8 +1,8 @@
 {
-  "name": "app-conferencia",
+  "name": "mi-portafolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yeison1998.github.io/portafolio",
+  "homepage": "https://mi-pórtafolio/portafolio",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.0",

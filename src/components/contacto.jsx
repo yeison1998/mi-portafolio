@@ -1,6 +1,5 @@
 import React from 'react';
 import contacto from '../assets/img/contacto.png';
-//import { BrowserRoter, Route, Link } from "react-router-dom";
 
 
 class Skills extends React.Component {
